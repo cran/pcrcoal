@@ -1,0 +1,9 @@
+aa25d933b3fc1d47effdcc9743458b19 *DESCRIPTION
+06e399f1580dc8418de93ae473ab544b *NAMESPACE
+a7b29ab118dfa2a1ee6621504fde9cf7 *R/PCRcoal.R
+c05b6dd3de0224885e9e2382e86e14b8 *R/SampleTrajMol.R
+5b30b49e6f3a2adf5784946149ccb435 *R/SampleTree.R
+829202abe31ad128d4901a2f416e27b4 *man/PCRcoal.Rd
+4bd74dc4cfe93d73975ea33dea6ca0ea *man/sample.tnt.Rd
+b55af3a1dce26042e91c7594c65af41e *man/sample.tree.Rd
+e31dee9be79afae0fb881ab5ac373a26 *man/sample.trs.Rd

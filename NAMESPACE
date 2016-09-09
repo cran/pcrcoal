@@ -1,6 +1,8 @@
 exportPattern("^[^\\.]");
 import(ape)
 import(ggplot2)
+importFrom(phylosim, Simulate)
 import(methods)
-import(phylosim)
+
+importFrom("stats", "rbinom", "reorder", "rhyper", "rmultinom")
 
